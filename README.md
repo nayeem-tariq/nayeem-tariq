@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nayeem-tariq
-- 👀 I’m interested in Data Science and Python
+- 👀 I’m interested in Data Science, Machine Learning, Python and DevOps
 - 🌱 I’m currently working as data Scientist in Capgemini
 - 📫 How to reach me on twitter - nayeem_tariq
 
