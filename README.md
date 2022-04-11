@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayeem-tariq
 - 👀 I’m interested in Data Science, Machine Learning, Python and DevOps
-- 🌱 I’m currently working as data Scientist in Capgemini
+- 🌱 I’m currently working as Associate Data Scientist in Capgemini
 - 📫 You can reach me on twitter - @nayeem_tariq
 
 <!---
