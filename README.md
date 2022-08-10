@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayeem-tariq
-- 👀 I’m interested in IOT, Data Science, Machine Learning, Python, DevOps, Embedded Systems and Mathematics
-- 🌱 I’m currently working as Associate Data Scientist in Capgemini
+- 👀 I’m interested in DevOps, IOT, Data Science, Machine Learning, Python, Embedded Systems and Mathematics
+- 🌱 I’m currently working as DevOps Engineer in Capgemini
 - 📫 You can reach me on twitter - @nayeem_tariq
 
 <!---
