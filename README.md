@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayeem-tariq
 - 👀 I’m interested in DevOps, IOT, Data Science, Machine Learning, Python, Embedded Systems and Mathematics
-- 🌱 I’m currently working as Software Engineer
+- 🌱 I’m currently working as Software Engineer: DevOps
 - 📫 You can reach me on twitter - @nayeem_tariq
 
 <!---
