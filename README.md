@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nayeem-tariq
-- 👀 I’m interested in DevOps, IOT, Machine Learning, Python, Embedded Systems, Linux, C++ and Mathematics
+- 👀 I’m interested in DevOps, MLOps, IOT, Machine Learning, Deep Learning, LLMs, Python, Embedded Systems, Linux, C++ and Mathematics
 - 🌱 I’m currently working as Software Engineer: DevOps
 - 📫 You can reach me on twitter - @nayeem_tariq
 
